@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1133daae-9357-43e6-ac42-05dd04a47c50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iBkmlmzup0RjJyE0UOrvt6wIm8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="BookBuyer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jade" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="jade.Boot" />
+      <module name="BookBuyer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="jade.Boot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Jade" />
+      <item itemvalue="Application.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="43" key="#Project_Structure" timestamp="1601389101952">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="43" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1601389101952" />
+    <state x="184" y="123" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601389022479">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="123" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1601389022479" />
+    <state width="1742" height="431" key="GridCell.Tab.0.bottom" timestamp="1601590499944">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1398" height="362" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601511707761" />
+    <state width="1742" height="431" key="GridCell.Tab.0.bottom/0.23.2560.1417/420.1463.1440.877@0.23.2560.1417" timestamp="1601590499944" />
+    <state width="1742" height="431" key="GridCell.Tab.0.center" timestamp="1601590499940">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1398" height="362" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601511707760" />
+    <state width="1742" height="431" key="GridCell.Tab.0.center/0.23.2560.1417/420.1463.1440.877@0.23.2560.1417" timestamp="1601590499940" />
+    <state width="1742" height="431" key="GridCell.Tab.0.left" timestamp="1601590499940">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1398" height="362" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601511707759" />
+    <state width="1742" height="431" key="GridCell.Tab.0.left/0.23.2560.1417/420.1463.1440.877@0.23.2560.1417" timestamp="1601590499940" />
+    <state width="1742" height="431" key="GridCell.Tab.0.right" timestamp="1601590499941">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1398" height="362" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601511707760" />
+    <state width="1742" height="431" key="GridCell.Tab.0.right/0.23.2560.1417/420.1463.1440.877@0.23.2560.1417" timestamp="1601590499941" />
+    <state x="370" y="55" key="SettingsEditor" timestamp="1601562098559">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="208" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1601388683612" />
+    <state x="370" y="55" key="SettingsEditor/0.23.2560.1417/420.1463.1440.877@0.23.2560.1417" timestamp="1601562098559" />
+    <state x="492" y="364" width="586" height="735" key="find.popup" timestamp="1601411618534">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="492" y="364" width="586" height="735" key="find.popup/0.23.2560.1417/420.1463.1440.877@0.23.2560.1417" timestamp="1601411618534" />
+    <state x="45" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1601389605442">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="45" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1601389605442" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BookBuyerAgent.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BookBuyerAgent.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BookBuyerAgent.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BookBuyerAgent.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BookBuyerAgent.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BookSellerAgent.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BookSellerAgent.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BookSellerAgent.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BookSellerAgent.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BookSellerAgent.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
